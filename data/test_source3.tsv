@@ -1,0 +1,11 @@
+source3_entity_id	business_name	business_address	city	state	country	postal_code
+S3-0001	AWS Cloud Solutions	410 Terry Ave N, Seattle, WA 98109	Seattle	WA	US	98109
+S3-0002	Starbucks Reserve	2401 Utah Ave, Seattle, WA 98134	Seattle	WA	US	98134
+S3-0003	Infosys Technologies	Hosur Road, Electronic City, Bangalore 560100	Bangalore	Karnataka	IND	560100
+S3-0004	TCS Tata	Fort, Mumbai 400001	Mumbai	Maharashtra	IND	400001
+S3-0005	Total Gas & Power	Courbevoie, 92400	Courbevoie	IDF	FRA	92400
+S3-0006	Moët Hennessy LVMH	22 Av Montaigne, Paris 75008	Paris	IDF	FRA	75008
+S3-0007	Target Store 101	100 Target Way, Minneapolis, MN 55403	Minneapolis	MN	USA	55403
+S3-0008	D-Mart Avenue Supermarts	Anjaneya Nagar, Mumbai 400076	Mumbai	Maharashtra	IND	400076
+S3-0009	Auchan Hypermarket	200 Rue de Paris, Lille 59000	Lille	HDF	FRA	59000
+S3-0010	Microsoft Azure	One Microsoft Way, Redmond, WA 98052	Redmond	WA	US	98052

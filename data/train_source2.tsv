@@ -1,0 +1,11 @@
+source2_entity_id	business_name	business_address	city	state	country	postal_code
+S2-0001	Amazon Web Services	410 Terry Avenue North, Seattle, WA	Seattle	WA	US	98109
+S2-0002	Starbucks Coffee	2401 Utah Ave S, Seattle, WA 98134	Seattle	WA	USA	98134
+S2-0003	Infosys Ltd.	Electronic City, Hosur Rd, Bangalore, 560100	Bangalore	Karnataka	India	560100
+S2-0004	Tata Consultancy Services	Raveline St, Fort, Mumbai 400001	Mumbai	Maharashtra	IND	400001
+S2-0005	Total Energies	2 Pl. Jean Millier, Courbevoie, 92400	Courbevoie	IDF	FR	92400
+S2-0006	LVMH Louis Vuitton	22 Ave Montaigne, Paris, 75008	Paris	IDF	France	75008
+S2-0007	Walmart	702 SW 8th Street, Bentonville, AR 72716	Bentonville	AR	US	72716
+S2-0008	Reliance Retail	Maker Chambers 4, Nariman Pt, Mumbai 400021	Mumbai	MH	IND	400021
+S2-0009	Carrefour Supermarche	93 Ave de Paris, Massy 91300	Massy	IDF	FRA	91300
+S2-0010	Microsoft Corp	1 Microsoft Way, Redmond, WA 98052	Redmond	WA	US	98052

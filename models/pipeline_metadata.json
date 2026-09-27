@@ -1,0 +1,43 @@
+{
+  "best_threshold": 0.5,
+  "best_f_0_5_score": 1.0,
+  "validation_metrics": {
+    "threshold": 0.5,
+    "tp": 12,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f_beta": 1.0
+  },
+  "feature_names": [
+    "name_fuzz_ratio",
+    "name_token_sort_ratio",
+    "name_token_set_ratio",
+    "name_partial_ratio",
+    "addr_fuzz_ratio",
+    "addr_token_set_ratio",
+    "addr_partial_ratio",
+    "city_fuzz_ratio",
+    "state_fuzz_ratio",
+    "name_char_len_diff",
+    "name_char_len_ratio",
+    "name_word_cnt_diff",
+    "name_word_cnt_ratio",
+    "addr_char_len_diff",
+    "addr_char_len_ratio",
+    "addr_word_cnt_diff",
+    "addr_word_cnt_ratio",
+    "digit_overlap_ratio_s1_in_cand",
+    "digit_jaccard_similarity",
+    "is_exact_name_match",
+    "is_exact_postal_match",
+    "is_exact_street_num_match",
+    "is_exact_country_match",
+    "is_exact_city_match",
+    "total_blocking_score"
+  ],
+  "total_pairs_trained": 12,
+  "positive_pairs": 12,
+  "negative_pairs": 0
+}
